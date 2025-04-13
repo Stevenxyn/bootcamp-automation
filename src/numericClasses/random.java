@@ -1,4 +1,4 @@
-package mainCourse;
+package numericClasses;
 
 import java.util.Random;
 

@@ -1,7 +1,7 @@
 package exercises;
 import java.util.Scanner;
 
-public class exercise_2 {
+public class Ex02_CompletarTextos {
 
 	public static void main(String[] args) {
 

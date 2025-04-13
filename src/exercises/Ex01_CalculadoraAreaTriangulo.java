@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class exercise_1 {
+public class Ex01_CalculadoraAreaTriangulo {
 
 	public static void main(String[] args) {
 

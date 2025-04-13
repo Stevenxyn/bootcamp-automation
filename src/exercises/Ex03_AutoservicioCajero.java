@@ -1,7 +1,7 @@
 package exercises;
 
 import java.util.Scanner;
-public class exercise_3 {
+public class Ex03_AutoservicioCajero {
 
 	public static void main (String args[]) {
 		

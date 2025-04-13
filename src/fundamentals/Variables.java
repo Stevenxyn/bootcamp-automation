@@ -1,4 +1,4 @@
-package mainCourse;
+package fundamentals;
 
 public class Variables {
 
