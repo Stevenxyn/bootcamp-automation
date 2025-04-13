@@ -8,7 +8,9 @@ public class ifConditional {
 
 		Scanner scanner = new Scanner(System.in);
 		/**
-		 * Could = podrias should = deberias improve = mejorar
+		 * Could = podrias 
+		 * Should = deberias
+		 * Improve = mejorar
 		 * 
 		 * anciado señor adulto niño bebe
 		 * 

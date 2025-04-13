@@ -1,6 +1,6 @@
 package formatingTexts;
 
-public class examplePrintf {
+public class examplePrintf_1 {
 
 	public static void main(String[] args) {
 
@@ -28,7 +28,10 @@ public class examplePrintf {
 		System.out.printf("Tu tienes %f de altura\n", height);
 		
 		//con booleanos
-		System.out.printf("Employed: %b", isEmployed);
+		System.out.printf("Employed: %b\n", isEmployed);
+		
+		//Usando multiples
+		System.out.printf("Buenos dias %s se que tienes al rededor de %d años y mides %.2f metros", name, age, height);
 		
 
 	}
